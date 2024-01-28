@@ -2,7 +2,7 @@
     "name": "ADM Brasileiros Hortifruti - Items List Editor",
     "short_name": "ADM BH List Editor",
     "description": "Atalho para editar lista de items do serviço de Cupom Fiscal da loja Brasileiros Hortifruti.",
-    "start_url": "https://github.com/hortifrutibrasileiros/hortifrutibrasileiros.github.io/edit/main/fiscal/list.js",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#f6f8fa",
     "theme_color": "#f6f8fa",
